@@ -1,0 +1,16 @@
+Название файла | Количество обращений к серверу | Время выполнения | Затраченная память
+src/main/resources/10N50M60R.txt | 38 | 0.0266702 | 297
+src/main/resources/100N200M300R.txt | 149 | 0.0109076 | 246
+src/main/resources/1000N2500M2800R.txt | 1645 | 0.0744059 | 3210
+src/main/resources/1000N7000M7100R.txt | 4550 | 0.16404541 | 57705
+src/main/resources/1000N7000M10000R.txt | 5058 | 0.08872031 | 37734
+src/main/resources/5000N10000M15000R.txt | 7239 | 0.18530889 | 40016
+src/main/resources/10000N25000M20000R.txt | 14320 | 1.0858612 | 76942
+src/main/resources/10000N25000M27000R.txt | 16322 | 0.9013249 | 108730
+src/main/resources/10000N50000M11000R.txt | 10874 | 1.674073 | 55843
+src/main/resources/10000N50000M15000R.txt | 14457 | 2.4534953 | 52732
+src/main/resources/10000N50000M27000R.txt | 22774 | 3.9723957 | 50708
+src/main/resources/10000N100000M11000R.txt | 11785 | 2.3520274 | 107098
+src/main/resources/10000N100000M15000R.txt | 20094 | 4.5296493 | 162411
+src/main/resources/20000N100000M15000R.txt | 14979 | 3.590018 | 3421
+src/main/resources/20000N100000M30000R.txt | 28943 | 12.234514 | 130889
